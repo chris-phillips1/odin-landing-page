@@ -133,6 +133,8 @@ body {
 
 .quote-text {
     font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
     color: var(--primary);
 }
 
